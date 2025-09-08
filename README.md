@@ -1,4 +1,4 @@
-![tanıtım](https://github.com/user-attachments/assets/7a69d64a-a89b-4d5c-bec7-0d350140e246)# 🎮 My Unity Game (Demo Repo)
+# 🎮 My Unity Game (Demo Repo)
 
 Bu repo, geliştirdiğim **2D Unity oyunundan örnek script ve sprite’ları** içermektedir.  
 Tam proje boyutu büyük olduğu için yalnızca **temel ve önemli kısımlar** paylaşılmıştır.  
