@@ -1,0 +1,19 @@
+# My Unity Game (Demo Repo)
+
+Bu repo, geliştirdiğim 2D Unity oyunundan **örnek kodları** içermektedir.  
+Tam proje boyut olarak büyük olduğu için buraya yalnızca önemli kısımları ekledim.
+
+## İçerik
+- `Scripts/` → Oyun karakteri, düşmanlar ve state machine kodları
+- `DemoAssets/` → Birkaç örnek sprite
+- `README.md` → Açıklama dosyası
+
+## Özellikler
+- 2D karakter kontrol sistemi (Idle, Run, Jump state)
+- Boss savaşları için temel FSM yapısı
+- Skor ve skill tree altyapısı
+
+## Tam Proje
+Tüm proje private repoda saklıdır.  
+Gerekirse özel erişim verebilirim.
+
