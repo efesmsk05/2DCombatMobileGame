@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3e9ef24c29446f2469ee0b17cc40f807, type: 3}
+  m_Name: Heavy
+  m_EditorClassIdentifier: 
+  skillName: HeavyAttack
+  animationClip: {fileID: 7400000, guid: 8befcf7fd7e5ed6448f546fbd5c7b3af, type: 2}
+  damage: 100
+  cooldown: 30
+  cancelStart: 0.3
+  cancelEnd: 0.7
+  canQueueNext: 1
+  hitboxOffsetX: 0
+  hitboxSize: {x: 6, y: 2.29}
+  skillMovementType: 1
+  skillType: 0
+  skillExecute: {fileID: 0}
+  inputPattern: 01000000

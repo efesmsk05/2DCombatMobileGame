@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b85139611cb48bf428b7cea69f8d0622, type: 3}
+  m_Name: Fireball
+  m_EditorClassIdentifier: 
+  skillDelay: 5
+  damage: 40
+  animationClip: {fileID: 7400000, guid: 9422bed7526616c4d8abbf27de431e02, type: 2}
+  speed: 10
+  objectPrefab: {fileID: 6398401832630188398, guid: 4fc612ed262e5f741a6582606ba1f2f1, type: 3}

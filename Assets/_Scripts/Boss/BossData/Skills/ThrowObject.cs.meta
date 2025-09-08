@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: b85139611cb48bf428b7cea69f8d0622
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - animationClip: {fileID: 7400000, guid: 9422bed7526616c4d8abbf27de431e02, type: 2}
+  - objectPrefab: {fileID: 6398401832630188398, guid: 4fc612ed262e5f741a6582606ba1f2f1, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
