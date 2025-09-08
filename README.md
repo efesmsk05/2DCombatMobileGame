@@ -34,6 +34,8 @@ Tam proje boyutu büyük olduğu için yalnızca **temel ve önemli kısımlar**
 - Çoğu sistem **çalışır durumda** olsa da henüz **taslak aşamasındadır**.  
 - Görseller ve mekanikler sürekli geliştirilmektedir.  
 - **Tam proje private repo’da saklanmaktadır**. İsteyenlere özel erişim sağlanabilir.  
+- İlerleyen zamanda **oynanış videoları ve ek içerikler** de paylaşılacaktır; proje şu an toparlanma aşamasındadır.  
+
 
 ---
 
